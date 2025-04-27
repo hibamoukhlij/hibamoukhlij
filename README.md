@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Heiba</h1>
-<h3 align="center">A passionate Mobile & front end developer </h3>
+
+
+###
+
+<h3>About me</h3>
+<p align="left">A passionate Mobile & front end developer </p>
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="right">
+  <h3>Let's connect</h3>
+<p >
 <a href="[https://linkedin.com/in/link](https://www.linkedin.com/in/hiba-moukhlij/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
 <a href="[https://www.leetcode.com/link](https://leetcode.com/u/hebamkj/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="link" height="30" width="40" /></a>
 </p>
+</div>
 
 <h3 align="center">Languages & tools i have placed my hands on </h3>
 
