@@ -4,11 +4,11 @@
   <img>
 </div>
 
-<h3>Languages & tools i have placed my hands on </h3>
+<h3 align="center">Languages & tools i have placed my hands on </h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
