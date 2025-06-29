@@ -12,7 +12,6 @@
 <h1 align="center">Hi 👋, I'm Heiba</h1>
 <h3 align="center">A passionate Full stack mobile developer</h3>
 <h3>About me</h3>
-<p align="left">A passionate Mobile & front end developer </p>
 <p align="left">👋 Hi! I'm a passionate Mobile Developer with expertise in Native Android and Cross-Platform development. I also create custom Notion templates for clients and build responsive, engaging web interfaces as a Frontend Web Developer.
 
 🚀 I’m always exploring new ways to blend functionality with clean design, whether in apps, templates, or UIs.
