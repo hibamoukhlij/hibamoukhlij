@@ -9,12 +9,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Heiba</h1>
+<h1 align="center">Hi , I'm Heiba</h1>
 <h3 align="center">A passionate Full stack mobile developer</h3>
 <h3>About me</h3>
-<p align="left">👋 Hi! I'm a passionate Mobile Developer with expertise in Native Android and Cross-Platform development. I also create custom Notion templates for clients and build responsive, engaging web interfaces as a Frontend Web Developer.
+<p align="left">Hi! I'm a dedicated Mobile Developer with hands-on experience in building smooth, scalable Android applications using Native (Kotlin, MVVM, Retrofit, SQLite) and Cross-Platform tools. I specialize in crafting clean, intuitive user experiences — from mobile UIs to frontend web interfaces.
 
-🚀 I’m always exploring new ways to blend functionality with clean design, whether in apps, templates, or UIs.
+💼 Beyond mobile development, I design functional and aesthetic Notion templates tailored for productivity, coders, and digital businesses. 
+
+🚀 I’m always exploring new ways to merge functionality with thoughtful design — whether I’m coding a project tracker app, prototyping a UI, or helping others build their digital systems.
 <br>
 
 - 🔭 I’m currently working on [Beztami](https://github.com/hibamoukhlij/BeztamiApp)
