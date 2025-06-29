@@ -1,5 +1,6 @@
 
-![Hiba Moukhlij](https://github.com/user-attachments/assets/7fe7f2b7-18e4-4ec9-a65c-991f90cb61eb)
+![Hiba Moukhlij (1200 x 300 mm)](https://github.com/user-attachments/assets/8a22364c-26fe-4c2c-92d6-0afe3ee46683)
+
 
 
 
@@ -22,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myporfolio-woad.vercel.app/](https://myporfolio-woad.vercel.app/)
 
-- 💬 Ask me about **Flutter , Firebase ,Kotlin**
+- 💬 Ask me about **Flutter, Firebase, Kotlin, Notion**
 ###
 
 
